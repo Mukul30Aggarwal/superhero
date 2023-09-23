@@ -1,0 +1,13 @@
+{
+  "name": "superherohunter",
+  "version": "1.0.0",
+  "description": "coding ninjas front end skill test",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "keywords": []
+}
